@@ -25,11 +25,6 @@ I combine visual creativity with technical skill to build experiences that are c
 
 ---
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chamithumapalagama&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ### 💻 Code Meets Design
 
 ```php
